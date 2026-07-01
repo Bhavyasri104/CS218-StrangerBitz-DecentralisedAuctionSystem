@@ -350,6 +350,7 @@ npm run dev
 - Auction expiration depends on `block.timestamp`, which validators can manipulate slightly.
 - IPFS gateway availability may affect image loading speed.
 - Auctions follow open English auction rules, so competitors can see bids publicly.
+- The application currently assumes users have MetaMask installed and connected before interacting with the platform.
 
 ---
 
